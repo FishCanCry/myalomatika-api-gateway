@@ -14,4 +14,4 @@
 .sts4-cache
 
 ## build ##
-build/*
+build/
